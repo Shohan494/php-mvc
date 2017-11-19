@@ -11,3 +11,5 @@
 - creating connection.php file
 
 - basic controller and action fetching from url using global (get) variable of php
+
+- adding view file
