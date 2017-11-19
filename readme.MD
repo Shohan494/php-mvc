@@ -19,3 +19,5 @@
 - created controllers folder with a controller file named pages_controller.php
 
 - created pages controller views in folder views/pages/...php
+
+- trying to use model now
