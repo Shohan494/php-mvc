@@ -21,3 +21,5 @@
 - created pages controller views in folder views/pages/...php
 
 - trying to use model now
+
+- created model controller
