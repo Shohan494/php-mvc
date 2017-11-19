@@ -13,3 +13,5 @@
 - basic controller and action fetching from url using global (get) variable of php
 
 - adding view file
+
+- creating the routes file which will use the 'controller' and 'action' from "index" file
