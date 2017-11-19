@@ -9,3 +9,5 @@
 - index file will firstly check for the db connection
 
 - creating connection.php file
+
+- basic controller and action fetching from url using global (get) variable of php
