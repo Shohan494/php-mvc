@@ -7,3 +7,5 @@
 - creating index.php file
 
 - index file will firstly check for the db connection
+
+- creating connection.php file
