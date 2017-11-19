@@ -2,6 +2,8 @@
 
 #### Workflows
 
-- creating a database 
+- creating a database, a table also
 
 - creating index.php file
+
+- index file will firstly check for the db connection
