@@ -25,3 +25,7 @@
 - created model controller
 
 - created model file post.php in models folder
+
+- edited layout view to get posts view
+
+- also created the post views(index.php and show.php) inside views/posts folder
