@@ -23,3 +23,5 @@
 - trying to use model now
 
 - created model controller
+
+- created model file post.php in models folder
