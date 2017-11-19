@@ -15,3 +15,7 @@
 - adding view file
 
 - creating the routes file which will use the 'controller' and 'action' from "index" file
+
+- created controllers folder with a controller file named pages_controller.php
+
+- created pages controller views in folder views/pages/...php
